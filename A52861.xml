@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nature &amp; causes of hardness of heart, together with the remedies against it discovered in a sermon, preached first before the Honourable Society of Lincolns-Inn, and afterwards before the University in Great St. Maries Church in Cambridge / by Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52861</idno>
+            <idno type="STC">Wing N522</idno>
+            <idno type="STC">ESTC R7881</idno>
+            <idno type="EEBO-CITATION">13241649</idno>
+            <idno type="OCLC">ocm 13241649</idno>
+            <idno type="VID">98631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 430:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nature &amp; causes of hardness of heart, together with the remedies against it discovered in a sermon, preached first before the Honourable Society of Lincolns-Inn, and afterwards before the University in Great St. Maries Church in Cambridge / by Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[5], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Entred according to order"</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Hebrews III, 15 --  Sermons.</term>
+               <term>Hardness of heart --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98631:1"/>
+            <pb facs="tcp:98631:1" rendition="simple:additions"/>
+            <p>THE Nature &amp; Cauſes OF HARDNESS OF HEART, Together with the <hi>Remedies againſt it,</hi> Diſcovered in a SERMON, Preached firſt before the Honourable Society of
+<hi>Lincolns-Inn,</hi> and afterwards before the <hi>Univerſity</hi> in Great St. <hi>MARIES</hi> Church in CAMBRIDGE.</p>
+            <p>By <hi>Robert Neville,</hi> B.D. Rector of <hi>Anſty.</hi>
+            </p>
+            <p>Entered according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Billingſley,</hi> at the Printing-Preſs under the
+<hi>Piazza</hi> of the <hi>Royal Exchange,</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98631:2" rendition="simple:additions"/>
+            <pb facs="tcp:98631:2"/>
+            <head>To the Worſhipful my much Honoured Friend, Colonel Richard Goulſton, OF
+<hi>WIDDIAL-HALL</hi> 
+               <abbr>Eſq</abbr> One of his Majeſty's Deputy-Lieutenants &amp; Juſtices of Peace for the County of HERTFORD.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Had no long Debate within my ſelf, whoſe <hi>Name</hi> I ſhould borrow to Patronize this Diſcourſe, when I con<g ref="char:EOLhyphen"/>ſidered it had been delivered in Two Great and Judicious Au<g ref="char:EOLhyphen"/>ditories, one of the Honourable <hi>Inns of Courts,</hi> and the most Ancient and Learned
+<hi>Univerſity</hi> of the Nation: My Thoughts preſently faſtned upon Colonel
+<hi>Goulſton</hi> (a Per<g ref="char:EOLhyphen"/>ſon who hath ſuckt much Excellent Learning from the Breaſts of both <hi>Univerſities,</hi> and been refined and poliſh<g ref="char:EOLhyphen"/>ed by an <hi>Inns of Court</hi> Education) as the beſt qualified to do me ſuch an Honour: And though it ſeems little leſs than a Libelling your Judgment, to publiſh my Hopes of its own<g ref="char:EOLhyphen"/>ing ſo Mean and Sorry a Pamphlet; yet I have preſumed to give you the Trouble of this Addreſs, not from any Opinion I have of the Value of what I preſent to you; but becauſe
+<pb facs="tcp:98631:3"/>the Honour, and Happineſs, of ſome years Neighbourhood, and Converſation, have given me a more than ordinary Aſ<g ref="char:EOLhyphen"/>ſurance, that your <hi>Candor</hi> and <hi>Charity</hi> will be ready to Pardon the Faults, and Umbrage the many Imperfections of it.</p>
+            <p>Were I inclin'd to put off the Divine, and put on the Courtier, I could (as ſome have done in
+<hi>Addreſſes</hi> of this Nature) croſs the Seas, and Rifle Foreign Countries, for
+<hi>DIAMONDS &amp; RVBIES,</hi> to <hi>SET</hi> in, and enrich your <hi>Name,</hi> and Exalt and Imbelliſh your <hi>Virtues</hi> with High and ſtrained <hi>Hyperboles:</hi> But my own plain and honest Temper hath made me a faithful Friend to Truth, and an inveterate Enemy to Paint and Varniſh; nor do I here ſo much pretend to draw a curious Picture of your Virtues, as to give you a rude Draught of my grateful Reſentments of thoſe many Neighbourly Kindneſſes you have heaped upon,</p>
+            <closer>
+               <salute>Honoured Sir,</salute> 
+               <signed> Your most Faithful and Humble Servant,
+<hi>R. Neville.</hi>
+               </signed>
+               <dateline>Anſty,
+<date>
+                     <hi>Novemb. 29. 1682.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98631:3"/>
+            <head>A SERMON Preached Before, both the Honourable Society OF LINCOLN's-INN, And the
+<hi>Univerſity</hi> at Great St. <hi>MARIES</hi> CHURCH IN CAMBRIDGE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hebr.</hi> 3. part of the 15th Verſe.</bibl>
+                  <p>
+                     <hi>Harden Not Your Hearts.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THough we are in the hand of a skilful Arti<g ref="char:EOLhyphen"/>ficer, that of the knottieſt and crookedeſt Timber, can make Beams and Rafters for his own
+<pb n="2" facs="tcp:98631:4"/>Houſe; that can ſquare the Marble and Flint, as well as the Free-ſtone: And though the Sunſhine of Divine Grace can melt and thaw the Ice, of the moſt congealed hardned Heart, and God can turn men <hi>extempore</hi> into Saints by his Omnipotent Convin<g ref="char:EOLhyphen"/>cing Spirit: yet if we obſerve the more Ordinary Courſe of God's Proceedings, we ſhall find that there is a Peculiar Temper of Mind, which is moſt agreeable to the receiving of Chriſt; which thoſe that are Owners of, are ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Fit or diſpoſed for the King<g ref="char:EOLhyphen"/>dom of God: They muſt have that peculiar Temper, wherein the Goſpel will take root, and proſper, namely, an Humble, Flexible and Soft Heart: whereas on the other ſide; there is<note n="*" place="margin">Luc. 9.62.</note> 
+               <hi>AN EVIL HEART OF UNBELIEF,</hi> and<note n="*" place="margin">Heb.
+3.12.</note> 
+               <hi>A REPROBATE</hi> Mind; and<note n="*" place="margin">2 Cor. 13.5.</note> 
+               <hi>A HARD HEART,</hi>
+               <note n="*" place="margin">Heb. 3.13.</note> 
+               <hi>HARDENED THROUGH THE DECEITFULNESS OF SIN,</hi> againſt which St. <hi>Paul</hi> gives us this neceſſary Caution here in my Text, ſaying, <hi>HARDEN NOT YOUR HEARTS.</hi>
+            </p>
+            <p>From which words I ſhall endeavour to ſhew you theſe Four things:</p>
+            <p>
+               <hi>Firſt,</hi> How and when Man Hardens his own Heart.</p>
+            <p>
+               <hi>Secondly,</hi> How and when God, without any impeachment to his Juſtice, may be ſaid to Har<g ref="char:EOLhyphen"/>den the Heart.</p>
+            <p>
+               <hi>Thirdly,</hi> What are the Properties of a Hard Heart.</p>
+            <p>
+               <pb n="3" facs="tcp:98631:4"/>
+               <hi>Fourthly,</hi> By What means we may avoid this Hardneſs, this Obduration, And</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew you, How, and When, Man Hardens his own Heart: For the more perfect diſ<g ref="char:EOLhyphen"/>covery whereof I muſt acquaint you with three ſorts of Hardneſs:</p>
+            <p>
+               <hi>Firſt,</hi> A Natural Hardneſs, the Hardneſs of our Natural Inclination, which was Born with us.</p>
+            <p>
+               <hi>Secondly,</hi> A Voluntary Hardneſs, A Hardneſs acquired by our own Reſolutions and Endeavours.</p>
+            <p>
+               <hi>Thirdly,</hi> A Penal, A Judicial Hardneſs.</p>
+            <p>
+               <hi>Firſt,</hi> A Natural Hardneſs, or the Hardneſs of our Natural Inclination, which was Born with us.</p>
+            <p>Phyſicians tell us of a diſeaſe converting the Womb into a Hard Stone; and the Story in
+<hi>Crollius</hi> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A Child of a perfect ſtony Subſtance, is aſſerted by others: and ſuch Children are we by Nature, Children of a perfect ſtony Subſtance, of ſtony Hearts: There grows A hard Pearl in the Underſtanding, the Eye of Our Souls, which makes us almoſt Blind.</p>
+            <p>The Soul of the Natural man is ſo ſtupified by Obduration, that it meaſures all Divine Truths by the Standard of Senſe and Reaſon: The Eye of his Soul looking downward, ſees clear enough, but if it looks up to the Sun of Righteouſneſs, 'tis, pre<g ref="char:EOLhyphen"/>ſently dazled: We are Naturally Eagle-Ey'd in Worldly things; Mole-Ey'd in Heavenly, in Spiri<g ref="char:EOLhyphen"/>tual things.</p>
+            <p>
+               <pb n="4" facs="tcp:98631:5"/>The Will of a meer Natural man (before the Grace of God Emancipates and ſets it free, and makes it capable of any good impreſſion) is obſti<g ref="char:EOLhyphen"/>nate, and impenetrable: We may as eaſily pierce a Rock, or diſſolve a Flint, as prevail upon it, when 'tis overgrown with that Cruſt of Natural Hard<g ref="char:EOLhyphen"/>neſs; which oftentimes is improved and increa<g ref="char:EOLhyphen"/>ſed by the Addition of a Voluntary and Acquired Hardneſs; which brings me to the Second kind of Hardneſs; and that is,</p>
+            <p>
+               <hi>Secondly,</hi> A Voluntary Hardneſs, A Hardneſs ac<g ref="char:EOLhyphen"/>quired by our own Reſolutions and Endeavours; A Wilful Hardneſs; when men have wilfully per<g ref="char:EOLhyphen"/>ſiſted in long continued Habits of many ſins, which (like gravel after long continuance in the Bladder) Cake into a Stone, and make their hearts hard and obdurate. They have enſlaved themſelves by a ſtrong Habit of Obduration, they are bored through the Ear, and are reſolvedly bent not to change their Servile and Slaviſh condition.</p>
+            <p>The Cords of Sin, with which they have bound themſelves, are of their own twiſting, and thoſe Cords are twiſted into ſo ſtrong a Habit, that they are not eaſily broken; and when men have brought themſelves into theſe Circumſtances, they are al<g ref="char:EOLhyphen"/>moſt under a fatal Neceſſity of committing Sin: <hi>I do not believe</hi> (ſaith a<note n="*" place="margin">Dr.
+<hi>Tillot<g ref="char:EOLhyphen"/>ſon's</hi> Sermon on <hi>Heb.</hi> 3.13 <hi>pag.</hi> 13.</note> Reverend Author)
+<hi>that God hath Predeſtinated any man to ruine; But by a long Courſe of Wilful Sins, men may (in a manner) Predeſtinate themſelves to it, and
+<pb n="5" facs="tcp:98631:5"/>Chooſe wickedneſs ſo long, till at laſt it becomes Neceſſary; and continue to be bad men upon the ſame account, that the</hi> Hiſtorian <hi>Extravagantly ſaith</hi> Cato <hi>was Vertuous,</hi>
+               <note n="(*)" place="margin">Quia aliter eſſe non potuit, vellei. Paterc.</note> BECAUSE HE COULD NOT BE OTHER<g ref="char:EOLhyphen"/>WISE <hi>being bound in the chains of their own wick<g ref="char:EOLhyphen"/>edneſs, nay, like</hi> Sampſon, <hi>not only bound by thoſe luſts which they have embraced, but likewiſe, robbed of all their ſtrength, whereby they ſhould break looſe from thoſe Bonds.</hi> And this brings me to the Third kind of Hardneſs I named to you, and that is</p>
+            <p>
+               <hi>Thirdly,</hi> A Judicial, a Penal Hardneſs; when men are hardned by God by way of puniſhment for hard<g ref="char:EOLhyphen"/>ning themſelves; their Voluntary Hardneſs proves the mother of their Penal Hardneſs; as you may ſee in the 12th of St. <hi>John,</hi> 39, 40. Therefore THEY COULD NOT BELIEVE, BECAUSE THAT <hi>ISAIAH</hi> SAID, HE HATH BLINDED THEIR EYES, AND HARDNED THEIR HEARTS, THAT THEY SHOULD NOT SEE WITH THEIR EYES, NOR UNDERSTAND WITH THEIR HEARTS, AND BE CONVERTED. It is as St. <hi>Auguſtin</hi> obſerves <note n="(a)" place="margin">Pecca<g ref="char:EOLhyphen"/>tum eſt poe<g ref="char:EOLhyphen"/>na peccati &amp; cauſa peccati.</note> SIN IS BOTH THE PUNISHMENT &amp; CAUSE OF SIN; which happens when the Soul is ſo overſpread with the Contagion of Sin, that all Spiritual food corrupts within it; which God perceiving, withdraws the wholſom food of his Grace he did before allow it; He with-holds thoſe Beams which before kept the heart ſoft and pliant, and thereby it is congealed and frozen; God being juſtly provoked withdraws his Grace, and leaves us to our ſelves; and though Satan tempts us to Obduration, yet neither God nor Satan, do real<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:98631:6"/>or effectually, produce this Hardneſs in us, we breed it in our ſelves, as ill diet may occaſion the <hi>ſtone</hi> in the Bladder but it is the inward diſtemper of the body, that immediately breeds it: For, the fur<g ref="char:EOLhyphen"/>ther illuſtration whereof, I ſhall, as I promiſed, en<g ref="char:EOLhyphen"/>deavour to ſhew you,</p>
+            <p>SECONDLY; How &amp; when God, without any impeachment to his Juſtice, may be ſaid to Har<g ref="char:EOLhyphen"/>den Mans Heart; and Firſt, God may be ſaid to Harden men, when he withdraws his grace, be<g ref="char:EOLhyphen"/>cauſe men have firſt Hardened their hearts againſt it: It being free for God to take the forfeiture of his grace and mercy, when, and how far, he plea<g ref="char:EOLhyphen"/>ſes: For although that Help of General Grace al<g ref="char:EOLhyphen"/>lowed to all, be, if rightly improved, ſufficient to ſtrengthen and Convert the Soul, and to emanci<g ref="char:EOLhyphen"/>pate and make the Will Free: Yet if we forfeit our Indentures by the abuſe of our Liberty, and neglect the Grace of God, when offered to us, he then may moſt juſtly withdraw it from us, and take away the Patent our Wills had for the Pri<g ref="char:EOLhyphen"/>viledge of their Freedom: To which purpoſe
+'tis generally obſerved by Divines, that there is to eve<g ref="char:EOLhyphen"/>ry Sinner a time, when the meaſure of his iniqui<g ref="char:EOLhyphen"/>ty is filled up, and Gods Patience in waiting for him is ſo wearied, that he withdraws his grace, and gives over calling him to Repentance; this was wont to be called by the
+<hi>Jews</hi> THE MEASURE OF JUDGMENT; <hi>i. e.</hi> ſuch a pitch of Sin, which Judgment inevitably followed: And it is poſſible, that to Obdurate Sinners ſuch a time may be, which
+<pb n="7" facs="tcp:98631:6"/>may be their laſt for grace, though not their laſt for life: That they may live here, and yet be dead eternally: and that a time may be when<note n="*" place="margin">Heb.
+10.26.</note> THERE WILL REMAIN NO MORE SACRIFICE FOR SIN, but Sinners are Sealed up to Obdura<g ref="char:EOLhyphen"/>tion, when God in Juſtice ſtrikes them dead, who would not live, and conſigns them to Damnation who were before reſolved to Damn themſelves. And St. <hi>Baſil hath aſſerted Gods Juſtice in this Caſe, by affirming that God, though he hardens mens hearts, yet he is not the Author of Sin: But that Sin is</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> OF MANS OWN CHOICE, <hi>not Originally and primarily from God, or by any Poſitive Act of Gods upon him; of which he gives us a lively inſtance in</hi> Pharaoh <hi>whom God found hardned; he did not make him So.</hi> And, if you read the ſtory, and obſerve the method of Gods Proceedings with
+<hi>Pharaoh,</hi> you ſhall find <hi>Exod,</hi> 8.15.32. that <hi>Pha<g ref="char:EOLhyphen"/>raoh.</hi> HARDNED HIS OWN HEART: And when after ſo many miraculous Judgments, He was not reformed, then tis ſaid, in a new ſtile, <hi>Exod.</hi> 9.10. &amp; 10.27. That the LORD HARDNED PHARAOHS HEART: But there is one Objection, that ſeems to interfere with this Doctrine, which I muſt re<g ref="char:EOLhyphen"/>move, and then I'le ſhake hands with this Parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>The <hi>OBJECTION IS THIS.</hi>
+            </p>
+            <p>Did not God tell <hi>Moſes</hi> at firſt, before ever we read that <hi>Pharaoh</hi> paved his Heart with Obdura<g ref="char:EOLhyphen"/>tion,
+<pb n="8" facs="tcp:98631:7"/>that he would Harden him? Did not God ſay to <hi>Moſes,</hi> Exod. 4.21. DO ALL THE WON<g ref="char:EOLhyphen"/>DERS BEFORE <hi>PHAROAH,</hi> WHICH I HAVE PUT INTO THINE HAND, BUT I WILL HARDEN HIS HEART, THAT HE SHALL NOT LET THE PEOPLE GO: Now theſe words of God, I WILL HARDEN HIS HEART, are recorded before we have any news of <hi>Pharaoh</hi>'s Hardning himſelf.</p>
+            <p>To which I Anſwer,</p>
+            <p>That Gods foretelling ſo early, that he would Harden <hi>Pharaoh</hi>'s heart, is no argument, that he would do it immediately, and without any Deme<g ref="char:EOLhyphen"/>rit of <hi>Pharaoh</hi>'s; but that God, foreſeeing and fore<g ref="char:EOLhyphen"/>knowing, that <hi>Pharaoh</hi> would lay the firſt ſtone of his Obduration, and firſt harden himſelf, ſaid there<g ref="char:EOLhyphen"/>upon, <hi>I WILL HARDEN HIS HEART:</hi> Now that God foreſaw <hi>Pharaoh's</hi> hardning himſelf is clear and evident from <hi>Exod.</hi>
+3.19. <hi>AND I AM SURE THAT THE KING OF AEGYPT WILL NOT LET YOU GO, NO NOT BY A MIGHTY HAND:</hi> So that if you carefully peruſe the Hiſtory of <hi>Pharaoh</hi>'s life and actions, you will find that God did not Harden him, till he had hardned himſelf ſix times againſt Gods heavy Judg<g ref="char:EOLhyphen"/>ments: Which was a notable Example of Gods dealings with an Obdurate Sinner, that hath filled up the meaſure of his Sins, keeping him alive, but without Grace, without Repentance.</p>
+            <p>SECONDLY, God may be ſaid to harden men (without any impeachment to his Juſtice) by pre<g ref="char:EOLhyphen"/>ſenting occaſions, which Sinners, through their own innate Corruption, make inſtrumental to their Ob<g ref="char:EOLhyphen"/>duration;
+<pb n="9" facs="tcp:98631:7"/>but this can reflect no diſhonour up<g ref="char:EOLhyphen"/>on God, nor blemiſh his Juſtice, becauſe theſe occaſions are not deſigned by God to DECOY any into Sin, but are good in themſelves: Light (though good and pleaſant in it ſelf) yet it hurts Sore Eyes: What is there ſo good, that obdurate Sinners will not abuſe?</p>
+            <p>
+               <hi>Pharaoh</hi> was Hardned by Miracles, by which a<g ref="char:EOLhyphen"/>nother man's Heart would have been mollified: the Hardned Sinner (like the <hi>Spider</hi>) ſucks poyſon out of every thing: He ſucks poyſon from that, which was deſigned as an Antidote for him: To this purpoſe 'tis ſaid <hi>Jer.</hi> 6.21. <hi>I WILL LAY STUM<g ref="char:EOLhyphen"/>BLING BLOCKS BEFORE THIS PEOPLE;</hi> that is, ſuch Occaſions and Providences, as through their own wilfull obdurateneſs are a means to ruin them: It being Ordinary in <hi>Scripture to aſcribe an Act to God,</hi> whereof he gives the Occaſion; An Exam<g ref="char:EOLhyphen"/>ple of this may be <hi>Shimei's</hi> Curſing <hi>David,</hi> which he told
+<hi>Abiſhai</hi> in 2 <hi>Sam.</hi> 16.11. <hi>that the Lord bid him do:</hi> But how did the Lord bid him? He gave him no outward Command, neither did he move him to it by any internal impulſe; for, if God had done either, He had been the Author of <hi>Shimei</hi>'s Curſing, and
+<hi>Shimei</hi> had been blameleſs: What o<g ref="char:EOLhyphen"/>ther meaning then can theſe words (<hi>THE LORD HAD BIDDEN HIM</hi>) be capable of but this? namely, that God did preſent the Occaſion, in letting
+<hi>Shimei</hi>
+               <pb n="10" facs="tcp:98631:8"/>ſee <hi>David,</hi> in that Affliction ſpoken of in the 12th
+<hi>verſe,</hi> and with a ſmall retinue flying from his Son <hi>Abſalom;</hi> his Guards about him being then ſo ſmall and inconſiderable, that <hi>Shimei</hi> thought, he might ſafely vomit out his rancour, and fury, a<g ref="char:EOLhyphen"/>gainſt him: In all which, and the like, actions, God derogates nothing from his Juſtice; theſe Occa<g ref="char:EOLhyphen"/>sions, which God Preſents, being in themſelves harmleſs, though wicked men abuſe them.</p>
+            <p>And this may ſuffice for the Second thing I was to ſhew you; namely How and When God, with<g ref="char:EOLhyphen"/>out any impeachment to his Juſtice, may be ſaid to Harden the Heart.</p>
+            <p>
+               <hi>I Proceed now to ſhew you,</hi>
+            </p>
+            <p>THIRDLY, What are the Properties of a Hard Heart; and the FIRST Property of a Hard Heart is this, that it doth not yield to any means of grace; For,</p>
+            <p>Firſt, It cannot be prevailed upon by the word of God, which is a Powerful Agent; the Preach<g ref="char:EOLhyphen"/>er that ſpeaks to obdurate Sinners, ſpeaks to Rocks, rather than Men; the Earth will ſooner tremble than they;</p>
+            <q>Illis Robur &amp; Aes triplex circa pectus.</q>
+            <p>Their Hearts are ſo guarded with the Armour of Obduration, that the Word of God, though it be a two-edged Sword, cannot enter into them: Though God hath ordained a Function of men, by whom he does beſeech them; though he arms
+<pb n="11" facs="tcp:98631:8"/>their Meſſages, and Doctrines, with ſuch Terrors, as makes the very Devils tremble, and joyns his holy Spirit too, ſends him in tongues of Fire, that he alſo may preach to them; and fright them with more flame; yet Hardned Sinners break theſe Strengths, and vanquiſh all the Arts and Strivings of the Almighty; and though Gods Ambaſſadours flaſh Hell fire againſt their Vices, in torrents of Scripture threatnings and Comminations, they con<g ref="char:EOLhyphen"/>cern themſelves no more, than they would at the ſtory of a new eruption of <hi>Aetna</hi> or <hi>Veſuvius;</hi> their Hearts are turned into Stone, into pure Mine and Quarry; and thereupon ſuch, as Preach to them, may be ſaid to be <hi>damnati ad Metalla,</hi> (that old
+<hi>Roman</hi> Puniſhment) condemned like ſlaves to dig in theſe Mines and Quarries; So that as <hi>Cato Cen<g ref="char:EOLhyphen"/>ſorius</hi> paved the Courts of Judicature with ſharp ſtones, that men might not delight in Law-ſuits; So the Courts of the Lords Houſe are often paved with Hard Hearts, that the Preacher might be diſcouraged from Preaching. There is ſo much Ice in mens hearts, there hath been ſo long a win<g ref="char:EOLhyphen"/>ter in their affections, which are chill and dull to all goodneſs; that the word of God, which is ſaid to be<note n="*" place="margin">
+                  <hi>Jerem.</hi>
+23.29.</note> A FIRE, cannot thaw or melt them: And as a hard heart cannot be prevailed upon by the word of God; So neither</p>
+            <p>
+               <hi>Secondly,</hi> Will it be wrought upon by Gods good Spirit; for, though it cannot hinder the grace of
+<pb n="12" facs="tcp:98631:9"/>God from ſhining upon it, yet it may, and often does hinder the workings and Operations of that grace; and receives the grace of God in vain; and<note n="*" place="margin">
+                  <hi>Heb.</hi> 10.29.</note> DOES DESPIGHT TO THE SPIRIT OF GRACE, and abuſes, and<note n="*" place="margin">
+                  <hi>Jude.</hi> 4.</note> 
+               <hi>TURNS THE GRACE OF GOD INTO WANTONNESS.</hi>
+            </p>
+            <p>It was ſtrange that Chriſt when he was upon Earth Converted ſo few; the Evangeliſt wonder'd at it, <hi>John</hi> 12.37. <hi>THOUGH HE HAD DONE SO MANY MIRACLES AMONG THEM, YET THEY BELIEVED NOT IN HIM. BUT</hi> he ſatisfies the wonder, and gives the reaſon of it out of the Prophet <hi>Iſaiah, THERE<g ref="char:EOLhyphen"/>FORE THEY COULD NOT BELIEVE, BECAUSE THEIR HEARTS WERE HARDNED:</hi> Their Hardneſs was the cauſe of their ſmall progreſs in believing; Engra<g ref="char:EOLhyphen"/>vers upon ſtone cannot rid much work; they that Point and Poliſh <hi>Diamonds,</hi> uſe much grinding to wear away a little unevenneſs. And then</p>
+            <p>
+               <hi>Thirdly,</hi> The hard heart will not be wrought upon by the mercy of God; God's Mercy to
+<hi>Pharaoh</hi> hardned his Heart;<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>HE HARDNED, HIM BY HIS MERCY AND FORBEARANCE BY RESPI<g ref="char:EOLhyphen"/>TING HIS PUNISHMENT,</hi> ſaith St.
+<hi>Baſil.</hi>
+            </p>
+            <p>The Hardned Sinner ſhrowds his Sins under the wings of Gods mercy; He makes Gods mercy his Protection in Sin: Accuſtomed dangers eſcaped harden the Sinner oftentimes to a Stupidity: The ruder Marriners, that have weathered out ſeveral ſtorms will ſteal, blaſpheme, and be drunk, in
+<pb n="13" facs="tcp:98631:9"/>the next tempeſt: And <hi>Dion Caſſius</hi> tells us, that
+<hi>Catiline</hi> being accuſed for the murders, and rapines, committed on thoſe, whom
+<hi>Sylla</hi> had proſcribed, and eſcaping the condemnation, under which others fell for the ſame Crimes,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> DID FROM THIS GROW MUCH WORSE: The Hardned Sinner COMMITS the Attri<g ref="char:EOLhyphen"/>butes of God, and (as it were) raiſes a Conteſt and Diſpute between them; and to all de<g ref="char:EOLhyphen"/>clarations of his future Juſtice, he oppoſes that God is mercifull; that ſatisfied with his own rectitude, he deſcends not to mark mens follies; and thus he baffles Gods Veracity with his Clemency, and makes his long-ſuffering wear out the ſenſe of his Juſtice: How far ſuch fooliſh Collections as theſe will prevail to harden mens hearts, the Wiſe man tell us <hi>Eccles.</hi> 8.11. BECAUSE SENTENCE AGAINST AN EVIL WORK IS NOT SPEEDI<g ref="char:EOLhyphen"/>LY EXECUTED, THEREFORE THE HEARTS OF THE SONS OF MEN ARE FULLY SET IN THEM TO DO EVIL: Such is the hard-hearted Sinners miſery, that God cannot look friendly upon him, but by his too much preſuming upon it he ruines and undoes himſelf: Heavens ſhining and ſmile<g ref="char:EOLhyphen"/>ing hurts him more than its lowring; the long<g ref="char:EOLhyphen"/>er the Hardned Sinner looks upon the Sun of Gods mercy he gathers the more ſpots, and impairs the beavty of his Soul: God is forced to be a tyrant to obdurate Sinners; He muſt be always whip<g ref="char:EOLhyphen"/>ping and ſcourging them; and till they are mol<g ref="char:EOLhyphen"/>lified and bettered by ſtripes, He cannot in mercy
+<pb n="14" facs="tcp:98631:10"/>remove his rod: His taking away his plagues from them would be a greater Plague to them. And then</p>
+            <p>
+               <hi>Fourthly,</hi> A Hard Heart cannot ſometimes be wrought upon by Gods Judgments: As Gods mer<g ref="char:EOLhyphen"/>cy cannot draw it, ſo his Judgments cannot drive it from Sin. It is an inſenſate unrelenting Anvil to the heavieſt Strokes of the Divine Vengeance: It does (like the
+<hi>Roman</hi> Emperour <hi>Caligula</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> thunder back againſt God, and ſhoot up a ſin, a provocation, againſt Heaven, for every arrow of Judgment ſhot down from Heaven; It under<g ref="char:EOLhyphen"/>values Gods Power; Hector's and Braves his Om<g ref="char:EOLhyphen"/>nipotence; it continues to affront God to his face af<g ref="char:EOLhyphen"/>ter all his Judgments, as if he had waſted all his thunderbolts, emptied his Quiver, and broke his Sword in the laſt encounter; and were like thoſe poor Animals, who loſe their ſting in the firſt wound they give. He that ſhould have ſeen the Tragical iniquity we read of, in the City of <hi>Lyons,</hi> which was ſo viſited with the Peſtilence, that the Dead (without a Figure) buried their Dead, falling down one upon another, each being at once both a Carkaſs and a Grave; He, I ſay that ſhould have ſeen this, and obſerv'd withal, that the Souldiers daily iſſued out of the <hi>Cittadel,</hi> and deflowred Vir<g ref="char:EOLhyphen"/>gins, even whilſt they were giving up the ghoſt defiled Matrons even already dead, COMMIT<g ref="char:EOLhyphen"/>TING with the duſt, warming the grave with ſinful heats, and coupling with the Plague and Death; would certainly have been amazed, to ſee
+<pb n="15" facs="tcp:98631:10"/>men ſo hardned in ſin, as to Suffer and Sin toge<g ref="char:EOLhyphen"/>ther: And thus much for the Firſt Property of a hard heart, that it does not yield to any means of Grace:
+<hi>Secondly.</hi> A</p>
+            <p>SECOND Property of a hard heart is this, that it hath no Feeling in it; it is inſenſate: It is ob<g ref="char:EOLhyphen"/>ſerved in the Body, that the reſt of the ſenſes may be diſtempered and loſt, without much impairing the health of it, but only the Touch cannot, which therefore is called the SENSE of life; becauſe that Part, or Body, which is deprived of Feeling is alſo at deaths door, and hath no more life in it, than it hath reliques of this Senſe: So is it alſo in Spiritual matters, of all other Symptoms, this of a hardned Senleſneſs is moſt dangerous; and as the
+<hi>Greek</hi> Phyſicians are wont to ſay of a deſperate diſeaſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, very, very mortal: A Man may not feel an aile and yet not be in health; and it is a good degree of health to know our diſeaſe; For if a Sinner grow once ſo hard and ſenſeleſs, as that no Phyſick, no means, will work upon that Body of death, that does encompaſs him, <hi>Conclamatum eſt,</hi> We may ring his Funeral knell; for, though he be alive, and in this world, he is dead to all Grace and goodneſs: If there be no remorſe, no grief, no diſlike of ſin, then woe be to us, this is <hi>deſcenſus Averni;</hi> the loweſt ſtair that leads to the Chambers of death.</p>
+            <p>I have read that, near the City of <hi>Capena,</hi> lay a ſtone of great note, which upon great droughts the People would bring into the City, and large
+<pb n="16" facs="tcp:98631:11"/>ſhowers of rain would preſently fall; but if we would be tenderly ſenſible of, and weep large ſhowers of penetential tears for our ſins; we muſt on the contrary, beg of God, to remove the ſtone out of our hearts, and give us a ſoft and tender heart, a heart of fleſh: And thus having deſcribed to you the Properties of a Hard Heart; it is high time I ſhould make uſe, of thoſe words of <hi>Hipocrates</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Furniſh your ſelves with all the Softning Plaiſters you can, which may either prevent, or remove, this Obdu<g ref="char:EOLhyphen"/>ration: And this brings me to the <hi>Fourth</hi> thing I was to ſhew you; And that is,</p>
+            <p>
+               <hi>Fourthly,</hi> By What means we may avoid this Hardneſs; And</p>
+            <p>
+               <hi>Firſt,</hi> If you would avoid it, avoid groſs Sins; for they waſt the Conſcience, make havock of grace, and render the heart hard and callous: When <hi>David</hi> cut off the lap of
+<hi>Saul's</hi> garment 'tis ſaid, <hi>his heart ſmote him;</hi> but when he fell into thoſe foul ſins of Adultery and Murder, it is not then ſaid, his Heart ſmote him; it grew hard upon the commiſſion of thoſe groſs ſins, till God diſ<g ref="char:EOLhyphen"/>patcht the Prophet <hi>Nathan</hi> to him, to rouſe and awake him. As for Sins of Infirmity, which are ſins of a leſs and imperfect Choice, ſome Paſſions blinding or corrupting the Judgment, they are entailed upon All; and, as the Schoolmen ſay, <hi>Posſibility of Sinning is included in the notion of a Creature:</hi> But though all men are prone to Sins of Infirmty, and yet all mens Hearts are not ſo Hard<g ref="char:EOLhyphen"/>ned
+<pb n="17" facs="tcp:98631:11"/>as Habitually to commit groſs and ſcandalous Sins; they have not ſuch vitiated Palats, as to be able to drink down the worſt dregs and lees of Vice: When
+<hi>Conſcience ſaith to any perſon this is a Great Sin, Commit it not, and yet in deſpite of Con<g ref="char:EOLhyphen"/>ſcience, and the Checks it gives him, he will run on;</hi> It is juſt with Conſcience, (when its Counſel is rejected) like <hi>Achitophel,</hi> to ſtrangle and ſtiffle it ſelf. And as we muſt abſtain from groſs Sins, ſo if we would avoid Hardneſs of Heart.</p>
+            <p>
+               <hi>Secondly,</hi> We muſt be careful not to harbour any the ſmalleſt Sin, with ſatisfaction and delight: By giving way to little Sins, one after another, we are prepared and diſpoſed for greater, and our ſtrongeſt Reſolutions againſt them are broken; for though they be not ſnapt in ſunder at once, yet by this means they are untwiſted by degrees, and then it is eaſie to break them, one Thread after another: 'tis ſcarce imaginable of what Strength and Vigour one Sinful Action (be it never ſuch a Dwarf in our Eyes) is, to Procreat and beget more: for Sin is Prolifical and Fruitful; and, though there be no Bleſſing annext to it, yet it does ſtrangly ENCREASE &amp; MVLTIPLY: There are certain Rudiments and Firſt Elements of Vices, in which men are firſt enter'd, &amp; they advance gradually to more groſs and heinous Crimes.</p>
+            <p>Our <hi>Saviour</hi> reproves the <hi>Phariſees</hi> in the Goſpel, becauſe they would ſtrain at Gnats, and ſwallow Camels; but yet it is true, that men learn at length to ſwallow Camels, by ſwallowing Gnats at firſt.</p>
+            <q>
+               <note n="*" place="margin">Juvenal.</note>
+               <hi>Nemo repente fuit turpiſsimus.</hi>
+            </q>
+            <p>
+               <pb n="18" facs="tcp:98631:12"/>No Sinner is ſo adventurous, as to attempt the greateſt Sins at firſt; the way by which men train up themſelves to the committing groſs and heinous Sins, is, by not making Conſcience of committing leſs Sins; and yet, <hi>I know not</hi>
+               <note n="(a)" place="margin">Neſcio an poſſimus leve aliquod peccatum dicere quod in der con<g ref="char:EOLhyphen"/>temptum admittitur.</note> (ſaith <hi>Paulinus</hi> in <hi>St. Jerom</hi>) <hi>WHE<g ref="char:EOLhyphen"/>THER WE CAN CALL ANY SIN LITTLE, THAT IS COM<g ref="char:EOLhyphen"/>MITTED AGAINST GOD:</hi> Small Contempts a<g ref="char:EOLhyphen"/>gainſt Great Princes are accounted great Crimes; for what is wanting in the thing, is made up in the Worth of the Perſon; How great a Sin then is the ſmalleſt Contempt of the Majeſty of God? To which I may alſo add, that when a ſmall Sin comes by Deſign, and is Acted with Knowledge and Deli<g ref="char:EOLhyphen"/>beration, the Malice of the Agent heightens the ſmallneſs of the Act, and makes up the Iniquity. It is incredible how inſenſibly many ſmall Sins heigh<g ref="char:EOLhyphen"/>ten and inflame our Reckonings, and encreaſe our Spiritual Hardneſs: Oh then that we would<note n="*" place="margin">Cant.
+2.15.</note> 
+               <hi>TAKE THESE LITTLE FOXES;</hi>
+               <note n="*" place="margin">Pſal. 1 37.9.</note> that
+<hi>WE WOULD DASH THESE</hi> BABYLON's <hi>BRATS AGAINST THE WALLS.</hi> And this brings me to the
+<hi>Third</hi> Remedy againſt Obduration, and that is;</p>
+            <p>
+               <hi>Thirdly,</hi> To nip the forbidden Fruit of Sin in the Bud, before it grows into a Habit;
+<hi>Ibi maxime opor<g ref="char:EOLhyphen"/>tet obſervare Peccatum ubi naſci ſolet,</hi> ſaith St. <hi>Jerom;</hi> Obſerve, and Kill Sin in its infancy; Cruſh this Cockatrice in the Egg: The Tree, which was in the beginning but a ſmall Plant, may at length bear
+<pb n="19" facs="tcp:98631:12"/>its Head and Branches ſo high, as to caſt a moſt dan<g ref="char:EOLhyphen"/>gerous Shadow: Even the ſmalleſt Pullulations of Sin muſt not be neglected; the firſt Bloſſoms of Iniquity muſt be blown away; For Sin is of a grow<g ref="char:EOLhyphen"/>ing, multiplying nature; there is uſually a Concate<g ref="char:EOLhyphen"/>nation of Vices; one Devil brings ſeven other De<g ref="char:EOLhyphen"/>vils; One Sin makes a Bridge for more to come over, like the Waves of the Sea, the End of the one is the Beginning of the other: If we go with Sin one Mile, it will compel us to go with it twain: It will ſwell like the Cloud
+<hi>Elijah</hi> ſaw, from the Big<g ref="char:EOLhyphen"/>neſs of a Man's Hand, to ſuch a vaſt Expanſion as will cover the Skie: No man deſcends to the worſt at firſt, but gradually, Step by Step; as Marriners ſetting ſail, firſt loſe the ſight of the Shore, then of the Houſes, then of the Steeples, then Mountains and Land.</p>
+            <p>Few or none are ſo hardned, and deſperate, at firſt, as to leap into Hell:
+<hi>Alipius,</hi> in St. <hi>Auſtin;</hi> who went only at firſt for Company, to thoſe bloody Spectacles of the <hi>Gladiators,</hi> came at laſt to applaud them: We know where we begin and ſet out in Sin, but we know not where we ſhall End, or take up; as no man can ſay, He will let in juſt ſo many Pale<g ref="char:EOLhyphen"/>fuls of the Sea, and no more. <hi>Stulta res eſt Nequitiae Modus,</hi> ſaith <hi>Seneca;</hi> 'tis a fooliſh, ridiculous thing for a man to think to ſet bounds to himſelf in any thing that is bad; or to hope to ſin by Rules of Art, and in Number, Weight and Meaſure.</p>
+            <p>
+               <hi>Fourthly</hi> and <hi>Laſtly,</hi> If you would avoid this Hard<g ref="char:EOLhyphen"/>neſs, uſe fervent and conſtant Prayer. Let us im<g ref="char:EOLhyphen"/>portune
+<pb n="20" facs="tcp:98631:13"/>God to cut the Thread of our Wickedneſs, that we may not ſpin it out to ſuch a length: Let us ſue out a Divorce between us, and our Beloved Sins, that Harden us. The Fire of Prayer muſt never go out, if we expect that ſuch Mettal as a Hard Heart conſiſts of, ſhould ever be melted by it.</p>
+            <p>Thoſe, who endeavour Chymically to extract the <hi>Philoſopher's Stone,</hi> muſt never let their Fire go out; and ſo thoſe, who would extract and draw the Stone out of their Hearts, muſt never let the Fire of their Devotion go out; this Fire (like that of the Veſtal Virgins at
+<hi>Rome</hi>) muſt be alway kept Burning. Now, that we may make an Experiment of this laſt
+<hi>Recipe</hi> of Prayer againſt Obduration, let us Begg of God to take away theſe Hearts of Stone, from within us, and give us Hearts of Fleſh, for his dear Son Jeſus Chriſt his ſake; to whom, with the Fa<g ref="char:EOLhyphen"/>ther and the Holy Ghoſt, be all Honour, Glory, and Praiſe, both now and for ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98631:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
